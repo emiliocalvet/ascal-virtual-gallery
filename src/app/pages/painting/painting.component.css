@@ -1,0 +1,8 @@
+.picture {
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.picture:hover {
+  box-shadow: 2px 2px 2px 2px rgba(15, 15, 15, 0.438);
+}

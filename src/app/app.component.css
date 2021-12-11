@@ -1,0 +1,12 @@
+#navigation-bar {
+  background-color: black;
+}
+
+footer {
+  background-color: black;
+  height: 100px;
+}
+
+.container {
+  min-height: calc(100% - 294px);
+}
